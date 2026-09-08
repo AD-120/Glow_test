@@ -1,0 +1,6 @@
+{
+  "name": "SEOUL GLOW",
+  "description": "Minimalist K-Beauty interactive product page for SEOUL GLOW innovative barrier and radiance face serum with real-time skin matching, multi-angle gallery, and English/Korean bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
